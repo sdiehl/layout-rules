@@ -1,0 +1,6 @@
+packages: .
+
+source-repository-package
+    type: git
+    location: https://github.com/sdiehl/alex-tools.git
+    tag: fc8c55086aa13f1411a4e61a2aa496213fc9d46d

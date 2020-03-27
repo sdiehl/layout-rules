@@ -1,0 +1,6 @@
+resolver: lts-15.0
+packages:
+- .
+extra-deps:
+  - git: https://github.com/sdiehl/alex-tools
+    commit: fc8c55086aa13f1411a4e61a2aa496213fc9d46d
